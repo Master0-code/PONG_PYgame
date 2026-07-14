@@ -26,6 +26,9 @@ Player 2
 Mouse
 - Click = Pause / Resume
 
+# Gameplay
+![Gameplay](assets/Gameplay1.gif)
+
 ## Installation
 
 ```bash
