@@ -30,4 +30,5 @@ Mouse
 
 ```bash
 pip install pygame-ce
+python Main.py
 ```
